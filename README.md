@@ -2,15 +2,16 @@
 
 **Yunbei Zhang · Janet Wang · Jihun Hamm · Chandan K. Reddy**
 
+[![arXiv: 2609.39142](https://img.shields.io/badge/arXiv-2609.39142-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.39142)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-7D527B?style=flat-square)](https://arxiv.org/pdf/2609.39142)
 [![Code: planned](https://img.shields.io/badge/Code-Planned-3B6694?style=flat-square)](#to-do)
 [![Data: planned](https://img.shields.io/badge/Data-Planned-2F6B4F?style=flat-square)](#to-do)
-[![Archive: planned](https://img.shields.io/badge/Archive-Planned-7D527B?style=flat-square)](#to-do)
 
 ## To-do
 
 - [ ] Release code
 - [ ] Release data
-- [ ] Release archive
+- [x] ~~Release paper on arXiv~~
 
 ## Overview
 
@@ -110,9 +111,12 @@ The confirmatory evidence covers one FlowGen renderer (*Diagrams*), mechanically
 
 ```bibtex
 @misc{zhang2026textforvision,
-  title  = {When Can Text Replace Vision? Structural Bottlenecks in Diagram Reasoning},
-  author = {Zhang, Yunbei and Wang, Janet and Hamm, Jihun and Reddy, Chandan K.},
-  year   = {2026},
-  url    = {https://github.com/yunbeizhang/text-for-vision}
+  title         = {When Can Text Replace Vision? Structural Bottlenecks in Diagram Reasoning},
+  author        = {Zhang, Yunbei and Wang, Janet and Hamm, Jihun and Reddy, Chandan K.},
+  year          = {2026},
+  eprint        = {2609.39142},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2609.39142}
 }
 ```
