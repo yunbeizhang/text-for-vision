@@ -1,9 +1,8 @@
 # When Can Text Replace Vision? Structural Bottlenecks in Diagram Reasoning
 
-**Yunbei Zhang · Janet Wang · Jihun Hamm · Chandan K. Reddy**
+<p align="center"><strong>Yunbei Zhang · Janet Wang · Jihun Hamm · Chandan K. Reddy</strong></p>
 
 [![arXiv: 2609.39142](https://img.shields.io/badge/arXiv-2609.39142-B31B1B?style=flat-square)](https://arxiv.org/abs/2609.39142)
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-7D527B?style=flat-square)](https://arxiv.org/pdf/2609.39142)
 [![Code: planned](https://img.shields.io/badge/Code-Planned-3B6694?style=flat-square)](#to-do)
 [![Data: planned](https://img.shields.io/badge/Data-Planned-2F6B4F?style=flat-square)](#to-do)
 
